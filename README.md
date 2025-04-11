@@ -15,4 +15,4 @@ Experiencing the tremors of the 2072 Gorkha Earthquake, the fear of the 2080 Jaj
 Nepal lies in a high-risk seismic zone. It's imperative for individuals, communities, and the government to take proactive measures to mitigate potential disasters. I urge every reader to participate in awareness campaigns and preparedness initiatives to safeguard lives and heritage.
 
 ## Access the Report
-[Download the full PDF report](./Earthquakes-Sheivering-Nepal.pdf)
+[Download the full PDF report](./Earthquakes Sheivering Nepal.pdf)
